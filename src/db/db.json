@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "b7371885-534e-43b4-90b8-9a03c406ef75",
+    "name": "Alton Weber",
+    "phone": "(386) 677-5446 x5176",
+    "email": "Beulah.Thiel-Grady@yahoo.com",
+    "job": "Legacy Branding Developer"
+  },
+  {
+    "id": "633cf46b-10dc-4b73-8527-1b632b23986d",
+    "name": "Darren Mertz",
+    "phone": "943.975.8366 x183",
+    "email": "Audra.Grady76@yahoo.com",
+    "job": "International Functionality Agent"
+  },
+  {
+    "id": "51d14d60-1ca2-4916-9fd5-171f03c978bb",
+    "name": "Joyce Zboncak",
+    "phone": "(999) 921-5505 x806",
+    "email": "Stephany61@yahoo.com",
+    "job": "Human Intranet Manager"
+  },
+  {
+    "id": "a8f32d33-f23e-430e-ab06-793e6c4aba48",
+    "name": "Kerry Bechtelar Jr.",
+    "phone": "291-812-3263",
+    "email": "Jamie.Considine14@gmail.com",
+    "job": "Corporate Identity Representative"
+  }
+]
